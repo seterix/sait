@@ -1,0 +1,195 @@
+#u680
+{
+	-pie-box-shadow: none;
+	box-shadow: 0px 2px 8px rgba(55,55,55,0.5);
+	position: relative;
+	background: transparent url("../images/dota2hqeu-lina-the-slayer-wallpaper-hd-1920x1080-u680-fr.png") no-repeat center top;
+	background-size: cover;
+}
+
+#u681-4
+{
+	position: relative;
+}
+
+#u681-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#buttonu708
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #F7841E;
+	border-radius: 30px;
+	position: relative;
+}
+
+#buttonu708:hover
+{
+	background-color: #545454;
+}
+
+#buttonu708.ButtonSelected
+{
+	background-color: #F7841E;
+}
+
+#u930
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u709-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu708:hover #u709-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u682-5
+{
+	background-color: transparent;
+	line-height: 24px;
+	color: #FFFFFF;
+	font-size: 20px;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u682-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u682
+{
+	font-size: 18px;
+	line-height: 22px;
+}
+
+#u774
+{
+	border-style: solid;
+	border-color: #F76A1E;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 5px;
+}
+
+#u782
+{
+	border-style: solid;
+	border-color: #F76A1E;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 5px;
+}
+
+#u784
+{
+	border-style: solid;
+	border-color: #F76A1E;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 5px;
+}
+
+#u785
+{
+	border-style: solid;
+	border-color: #F76A1E;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 5px;
+}
+
+#u786
+{
+	border-style: solid;
+	border-color: #F76A1E;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 5px;
+}
+
+#u787
+{
+	border-style: solid;
+	border-color: #F76A1E;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 5px;
+}
+
+#u774:hover,#u782:hover,#u784:hover,#u785:hover,#u786:hover,#u787:hover
+{
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 8px rgba(0,0,0,0.15);
+	border-color: #8CC63F;
+}
+
+#u747-4,#u749-4,#u750-4,#u751-4,#u752-4,#u753-4
+{
+	background-color: transparent;
+	line-height: 19px;
+	color: #373737;
+	font-size: 16px;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u714
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u715
+{
+	border-style: solid;
+	border-color: #373737;
+	background-color: #EEEEEE;
+	position: relative;
+	border-width: 0px 0px 5px;
+}
+
+#u853-4
+{
+	background-color: transparent;
+	line-height: 36px;
+	color: #373737;
+	font-size: 30px;
+	font-family: ubuntu, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u854-4
+{
+	background-color: transparent;
+	line-height: 58px;
+	color: #8CC63F;
+	font-size: 48px;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
