@@ -1,0 +1,40 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="false" exportTarget="other" domain="www.dotatotal.com" resolutions="1x" timestamp="1453840053431">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_______-a.css" crc="416449013" ref="index:выбор-матча:размер-ставки:отзывы:выбор-команды:профиль"/>
+    <file name="index.css" crc="123556507" ref="index"/>
+    <file name="iefonts_index.css" crc="3764355769" ref="index"/>
+    <file name="_____-_____.css" crc="441833880" ref="выбор-матча"/>
+    <file name="iefonts______-_____.css" crc="3764355769" ref="выбор-матча"/>
+    <file name="______-______.css" crc="441833880" ref="размер-ставки"/>
+    <file name="iefonts_______-______.css" crc="3764355769" ref="размер-ставки"/>
+    <file name="______.css" crc="441833880" ref="отзывы"/>
+    <file name="iefonts_______.css" crc="3764355769" ref="отзывы"/>
+    <file name="_____-_______.css" crc="441833880" ref="выбор-команды"/>
+    <file name="iefonts______-_______.css" crc="3764355769" ref="выбор-команды"/>
+    <file name="_______.css" crc="163955415" ref="профиль"/>
+    <file name="iefonts________.css" crc="314922684" ref="профиль"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:выбор-команды:размер-ставки:профиль:выбор-матча:отзывы"/>
+    <file name="museutils.js" crc="275725342" ref="index:выбор-команды:размер-ставки:профиль:выбор-матча:отзывы"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:выбор-команды:размер-ставки:профиль:выбор-матча:отзывы"/>
+    <file name="webpro.js" crc="3883484123" ref="профиль"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="профиль"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="профиль"/>
+    <file name="touchswipe.js" crc="4218319045" ref="профиль"/>
+  </folder>
+  <folder name="images">
+    <file name="dota2hqeu-lina-the-slayer-wallpaper-hd-1920x1080-u680-fr.png" crc="3899222837" ref="index"/>
+    <file name="u681-4.png" crc="3941523253" ref="index:выбор-команды:размер-ставки:профиль:выбор-матча:отзывы"/>
+    <file name="steamlg.png" crc="151649140" seo="true" ref="index:выбор-команды:размер-ставки:профиль:выбор-матча:отзывы"/>
+  </folder>
+  <file name="index.html" crc="136016689" seo="true" mt="1453840043532" redirect="true"/>
+  <file name="выбор-команды.html" crc="25867007" seo="true" mt="1453840043532" redirect="true"/>
+  <file name="размер-ставки.html" crc="4257708257" seo="true" mt="1453840043532" redirect="true"/>
+  <file name="профиль.html" crc="3840806363" seo="true" mt="1453840043532" redirect="true"/>
+  <file name="выбор-матча.html" crc="4011641681" seo="true" mt="1453840043532" redirect="true"/>
+  <file name="отзывы.html" crc="501020823" seo="true" mt="1453840043532" redirect="true"/>
+</manifest>
